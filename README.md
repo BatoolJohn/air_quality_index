@@ -149,6 +149,21 @@ Connect to real-time air quality APIs
 Add an executive summary page for stakeholders
 
 ---
+## 📂 Dataset
+
+This project uses a **synthetic air quality dataset** inspired by publicly available air pollution data from Kaggle.
+
+Base features (pollutant concentrations, temperature, humidity) are derived from common Kaggle air quality datasets, while additional features such as:
+
+- Population density  
+- Proximity to industrial areas  
+- Normalized pollutant values  
+- Air quality categories  
+
+were **engineered and simulated** for analytical and visualization purposes.
+📎 Inspiration Dataset:
+Kaggle – Air Quality Data in India  
+https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
 ## 📜 License
 
