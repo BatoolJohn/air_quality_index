@@ -109,7 +109,7 @@ Temperature and humidity patterns vary across air quality categories
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/air-quality-powerbi.git
+git clone https://github.com/BatoolJohn/air-quality-powerbi.git
 
 ```
 Open the dashboard:
@@ -150,11 +150,9 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 ## 📬 Contact
 
-👤 **Your Name**
+👤 **Attiya Batool**
 
-* LinkedIn: [linkedin.com/in/yourname](#)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: [linkedin.com/in/attiya-b-996b832b](#)
+* Email: [batooljohn@gmail.com](mailto:batooljohn@gmail.com)
 
 ---
-
-⚡ **Tip**: Add visuals (plots, Grad-CAM heatmaps, confusion matrix images) directly into the README using Markdown image embeds. This makes the repo **twice as attractive to clients/recruiters**.
