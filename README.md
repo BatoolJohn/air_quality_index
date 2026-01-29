@@ -128,6 +128,14 @@ Click Refresh
 
 ## 📊 Dashboard Preview
 
+<p align="center">
+  <img src="screenshots/air-q.png" width="900">
+</p>
+
+<p align="center">
+  <img src="screenshots/Air Vs. Pop.png" width="900">
+</p>
+
 ---
 
 ## 🚧 Future Improvements
